@@ -10,3 +10,6 @@ Hi guys
       Branches
 
       Updating Dev branch
+
+      Hello Guys
+      I am updatating this one in master branch
